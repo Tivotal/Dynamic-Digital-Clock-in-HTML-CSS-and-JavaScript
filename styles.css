@@ -1,7 +1,8 @@
 /* Created by Tivotal */
 
-/* Google Fonts(Poppins) */
+/* Google Fonts(Orbitron) */
 @import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@600;700&display=swap");
+
 * {
   font-family: "Orbitron", sans-serif;
   margin: 0;
